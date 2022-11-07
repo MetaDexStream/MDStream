@@ -3,5 +3,8 @@
   "version_windows_x86": "2.0.3",
   "version_mac": "2.0.2",
   "version_android": "0",
+  "version_windows_basic": "2.0.3",
+  "version_windows_basic_x86": "2.0.3",
+  "version_mac_basic": "2.0.2",
   "inherit": true
 }
