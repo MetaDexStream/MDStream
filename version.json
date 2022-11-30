@@ -6,5 +6,6 @@
   "version_windows_basic": "2.0.3",
   "version_windows_basic_x86": "2.0.3",
   "version_mac_basic": "2.0.2",
+  "version_mac_arm64_basic": "2.0.2",
   "inherit": true
 }
